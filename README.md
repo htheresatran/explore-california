@@ -1,2 +1,2 @@
-# explore-california
-Files used to practice git
+# california v2 hw
+ 
